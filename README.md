@@ -18,5 +18,5 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e34d3c4-fdbf-4eb4-b156-f28edb9d6427" />
 
 ### Собранные данные ###
-<img width="941" height="331" alt="image" src="https://github.com/user-attachments/assets/5ed12922-6668-4b21-87e2-664957394199" />
+<img width="941" height="331" alt="image" src="https://github.com/user-attachments/assets/5ed12922-6668-4b21-87e2-664957394199" /> 
 
